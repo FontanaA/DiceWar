@@ -157,16 +157,5 @@ public class Game {
     }
     public static void main(String[] args) {
         Game r = new Game();
-        /*Die y;
-        float tot = 0;
-        int x;
-        for(int i = 0; i < 100; i++) {
-            y = new LoadedDie(6);
-            x = y.returnNum();
-            System.out.println(x);
-            tot+= x;
-        }
-        System.out.println(tot);
-        System.out.println((float)tot / 100);*/
     }
 }
